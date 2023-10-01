@@ -4,6 +4,8 @@
 # Instruções
 O trabalho seguindo os requisitos para desenvolvimento do MVP, estão no arquivo:
 >
+https://github.com/gabrielmprata/MVP_SP03_Engenharia_de_Dados/blob/a0f967dc35b9527035b8c56fa876f9693a8ef30f/MVP_SP03_Engenharia_de_Dados.pdf
+>
 MVP_SP03_Engenharia_de_Dados.pdf
 >
 # Analise de dados
