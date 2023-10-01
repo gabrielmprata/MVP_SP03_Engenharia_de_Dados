@@ -5,6 +5,13 @@
 O trabalho seguindo os requisitos para desenvolvimento do MVP, estão no arquivo:
 >
 MVP_SP03_Engenharia_de_Dados.pdf
+>
+# Analise de dados
+Toda a analise de dados foi desenvilvida em Python, utilizando o Google Colab.
+>
+>Por favor, abrir o arquivo abaixo no Google Colab para que seja possivel a visualização dos gráficos interativos.
+>
+MVP_SP03_Engenharia_de_Dados.ipynb
 
 # Objetivo
 O mercado de banda larga fixa vem crescendo cada vez mais no Brasil, gerando uma grande concorrência entre empresas de telecomunicações.
