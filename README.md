@@ -1,6 +1,11 @@
 # MVP_Sprint03_Puc_Rio
 # Trabalho de elaboração de MVP (Minimum Viable Product)
 
+# Instruções
+O trabalho seguindo os requisitos para desenvolvimento do MVP, estão no arquivo:
+MVP_SP03_Engenharia_de_Dados.pdf
+
+# Objetivo
 O mercado de banda larga fixa vem crescendo cada vez mais no Brasil, gerando uma grande concorrência entre empresas de telecomunicações.
 Cada vez mais, os brasileiros desejam ter em casa uma conexão de alta velocidade e de grande estabilidade, e esse cenário é um efeito da modernização da infraestrutura de telecomunicações no país.
 Trata-se de um movimento cujo início beneficiou principalmente grandes centros urbanos, mas que foi expandindo gradualmente para cidades pequenas e bairros mais afastados.
