@@ -11,6 +11,8 @@ Toda a analise de dados foi desenvilvida em Python, utilizando o Google Colab.
 >
 >Por favor, abrir o arquivo abaixo no Google Colab para que seja possivel a visualização dos gráficos interativos.
 >
+https://github.com/gabrielmprata/MVP_SP03_Engenharia_de_Dados/blob/f79ebe64e0099481d6b4d19165b48db353e05e52/MVP_SP03_Engenharia_de_Dados.ipynb
+>
 MVP_SP03_Engenharia_de_Dados.ipynb
 
 # Objetivo
