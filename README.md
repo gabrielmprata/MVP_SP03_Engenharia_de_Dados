@@ -1,5 +1,12 @@
-# MVP_Sprint03_Puc_Rio
-# Trabalho de elaboração de MVP (Minimum Viable Product)
+![bras_83x140_reduzido](https://github.com/gabrielmprata/MVP_Sprint01_Puc_Rio/assets/119508139/4880e33f-47b7-4b75-8a84-bb2d57a8c5f2) 
+**Pontifícia Universidade Católica do Rio de Janeiro**
+
+#  📚 Trabalho de elaboração de MVP 📖
+#### Curso de Pós Graduação *Ciência de Dados e Analytics*
+#### Aluno: Gabriel Prata
+#### Disciplina: Engenharia de Dados
+#### MVP Sprint03 Puc Rio
+>
 
 # Instruções
 O trabalho seguindo os requisitos para desenvolvimento do MVP, estão no arquivo:
@@ -26,6 +33,11 @@ Não resta dúvida hoje em dia, que a banda larga mais eficaz é a Fibra óptica
 A ANATEL(Agência Nacional de Telecomunicações) divulgou em seu portal de dados, que em 2022 o Brasil registrou 44,9 milhões de acessos de banda larga fixa, e que 70% desses acessos, são de Fibra Óptica.
 
 ## Coleta de dados:
+>
+Os dados foram coletados do sítio da Agência Nacional de Telecomunicações.<img align="left" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Anatel_Logo.svg/180px-Anatel_Logo.svg.png">
+>
 https://informacoes.anatel.gov.br/paineis/acessos
+<br>
+>
 >
 Dataset: 2021 e 2022
