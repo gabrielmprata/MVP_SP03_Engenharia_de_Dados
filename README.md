@@ -16,7 +16,7 @@ https://github.com/gabrielmprata/MVP_SP03_Engenharia_de_Dados/blob/a0f967dc35b95
 MVP_SP03_Engenharia_de_Dados.pdf
 >
 # Analise de dados
-Toda a analise de dados foi desenvilvida em Python, utilizando o Google Colab.
+Todas as análises de dados, foram desenvolvidas em Python, utilizando o Google Colab.
 >
 >Por favor, abrir o arquivo abaixo no Google Colab para que seja possivel a visualização dos gráficos interativos.
 >
