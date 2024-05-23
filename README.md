@@ -39,7 +39,6 @@ Com os dados disponibilizados pela ANATEL, iremos entender o cenário de Banda L
 >
 # :floppy_disk: 2. Coleta de Dados
 >
->
 Os dados foram coletados do sítio da Agência Nacional de Telecomunicações.<img align="left" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Anatel_Logo.svg/180px-Anatel_Logo.svg.png">
 >
 https://informacoes.anatel.gov.br/paineis/acessos
