@@ -24,7 +24,7 @@ https://github.com/gabrielmprata/MVP_SP03_Engenharia_de_Dados/blob/f79ebe64e0099
 >
 MVP_SP03_Engenharia_de_Dados.ipynb
 
-# **<font color=#85d338> 1. Definição do problema**
+# 1. Definição do problema
 >
 O mercado de banda larga fixa vem crescendo cada vez mais no Brasil, gerando uma grande concorrência entre empresas de telecomunicações.
 >
